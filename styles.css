@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/cityofdetroit.jpg') no-repeat top center ;
+  background: url('cityofdetroit.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -152,7 +152,7 @@ a.social {
   transition: all .5s;
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(github.svg);
 }
 a.social:hover {
   opacity: 1;
