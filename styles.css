@@ -11,6 +11,9 @@ body {
   color: #222;
   background: #f7f5f0;
 }
+img {
+  max-width:100%;
+}
 /* Link Styles */
 
 a {
